@@ -1,7 +1,7 @@
 # b2b-saas-content-research
 ## Objective
 
-This research project analyzes content strategies, growth frameworks, and go-to-market insights shared by leading B2B SaaS marketers. The goal is to identify recurring patterns, emerging trends, and actionable lessons that can help B2B SaaS companies improve growth, demand generation, content marketing, and customer acquisition.\
+This research project analyzes content strategies, growth frameworks, and go-to-market insights shared by leading B2B SaaS marketers. The goal is to identify recurring patterns, emerging trends, and actionable lessons that can help B2B SaaS companies improve growth, demand generation, content marketing, and customer acquisition.
 
 # What Was Collected
 
