@@ -1,7 +1,7 @@
-# Ross Simmonds
+# Emily Kramer
 
 ## Profile
-**Link :** [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/emilykramer/)
+**Link :** https://www.linkedin.com/in/emilykramer/
 
 **Focus Areas:**
 - B2B SaaS Marketing
