@@ -18,6 +18,13 @@ To support content collection, I experimented with a Playwright-based LinkedIn c
 
 The workflow was designed to:
 
+1. Read LinkedIn profile URLs.
+2. Open LinkedIn activity pages.
+3. Collect recent posts.
+4. Export structured Markdown files.
+
+## Research Methodology
+
 1. Identified high-signal B2B SaaS practitioners.
 2. Collected recent LinkedIn content and insights.
 3. Organized content by author.
@@ -44,7 +51,7 @@ The selected experts are active practitioners with proven experience in SaaS gro
 Rather than selecting general marketing influencers, I focused on specialists who actively share practical frameworks, real-world case studies, and operational insights from working directly with B2B SaaS companies.
 
 | Expert | Area of Expertise |
-|----------|----------|
+|---------|---------|
 | Kevin Indig | SEO, AI Search, Organic Growth |
 | Ross Simmonds | Content Distribution, Content Marketing |
 | Emily Kramer | B2B Marketing, Conversion Optimization, GTM |
@@ -53,7 +60,7 @@ Rather than selecting general marketing influencers, I focused on specialists wh
 | Kyle Poyar | Product-Led Growth, Monetization, AI GTM |
 | Lenny Rachitsky | Product Growth, Startup Strategy |
 | Kieran Flanagan | AI Marketing, Marketing Operations |
-| Andrei Zinkevich | Demand Generation, Account-Based Marketing, Pipeline Growth |
+| Andrei Zinkevich | Demand Generation, ABM, Pipeline Growth |
 | Sophie Buonassisi | GTM Strategy, Growth Marketing |
 
 ## Tools Used
